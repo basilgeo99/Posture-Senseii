@@ -29,3 +29,13 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
 
 
 # The Project
++ For communicating with phone we used an app called Dabble
+        https://thestempedia.com/product/dabble/
+        https://github.com/STEMpedia/Dabble
+
++ References :
+        https://thestempedia.com/product/dabble/
+        https://github.com/STEMpedia/Dabble
+        Adafruit ADXL345 documentation
+        YouTube videos
+        Wikipedia page for RSI https://en.wikipedia.org/wiki/Repetitive_strain_injury
