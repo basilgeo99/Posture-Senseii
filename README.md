@@ -50,7 +50,27 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
         ● https://www.arduino.cc/en/Reference/Wire
 
 + Screenshots
-        ![]()
+
+        01. Circuit Connections - the connections.xls file contains all the connections that need to be made
+                
+     ![connections](Pictures/01.png)
+        
+        02. Actual Model
+        
+     ![](Pictures/02.jpg)
+     ![](Pictures/03.jpg)
+
+        03. Mounted shots
+        
+     ![](Pictures/04.jpg)
+     ![](Pictures/05.jpg)
+       
+        04. Mobile Data-View and Notifications
+        
+     ![](Pictures/06.png)
+     ![](Pictures/07.png)
+     ![](Pictures/08.png)
+
 
 + References :
 
