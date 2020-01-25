@@ -48,20 +48,21 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
 
 + For communicating with phone we used an app called Dabble
 
-        ● https://thestempedia.com/product/dabble/
-        ● https://github.com/STEMpedia/Dabble
+https://thestempedia.com/product/dabble/
+
+https://github.com/STEMpedia/Dabble
 
 + The WIRE library for arduino is required for the ADXL345 to interface with the ARDUINO NANO
 
-        ● https://www.arduino.cc/en/Reference/Wire
+https://www.arduino.cc/en/Reference/Wire
         
 + The DABBLE library is required for bluetooth communication
          
-        ● https://www.arduinolibraries.info/libraries/dabble
+https://www.arduinolibraries.info/libraries/dabble
 
 + Also download the DABBLE app from the PlayStore (also available for iOS)
 
-        ● https://play.google.com/store/apps/details?id=io.dabbleapp&hl=en_US
+https://play.google.com/store/apps/details?id=io.dabbleapp&hl=en_US
 
 ### Screenshots
 
