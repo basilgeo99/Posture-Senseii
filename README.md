@@ -2,6 +2,10 @@
 An ARDUINO based and bluetooth enabled IOT project.
 
 # What is it?
+
+This is the final project for the IOT course at Christ University Faculty of Engineering for BTech in Computer Science.
+It was carried out by Basil George Poulose, Nikhil Niranjan and Karthik Krishna.
+
 Posture Senseii is a IOT health tool that detects and monitors a person's posture.
 
 Using this data, it determines whether a person is maintaining a proper posture for medical health maintainability.
