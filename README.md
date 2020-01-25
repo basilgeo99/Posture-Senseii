@@ -66,25 +66,25 @@ https://play.google.com/store/apps/details?id=io.dabbleapp&hl=en_US
 
 ### Screenshots
 
-        01. Circuit Connections - the connections.xls file contains all the connections that need to be made
+   #### 01. Circuit Connections - the connections.xls file contains all the connections that need to be made
                 
-     ![connections](Pictures/01.png)
+   ![connections](Pictures/01.png)
         
-        02. Actual Model
+   #### 02. Actual Model
         
-     ![](Pictures/02.jpg)
-     ![](Pictures/03.jpg)
+   ![](Pictures/02.jpg)
+   ![](Pictures/03.jpg)
 
-        03. Mounted shots
+   #### 03. Mounted shots
         
-     ![](Pictures/04.jpg)
-     ![](Pictures/05.jpg)
+   ![](Pictures/04.jpg)
+   ![](Pictures/05.jpg)
        
-        04. Mobile Data-View and Notifications
+   #### 04. Mobile Data-View and Notifications
         
-     ![](Pictures/06.png)
-     ![](Pictures/07.png)
-     ![](Pictures/08.png)
+   ![](Pictures/06.png)
+   ![](Pictures/07.png)
+   ![](Pictures/08.png)
 
 
 ### References :
