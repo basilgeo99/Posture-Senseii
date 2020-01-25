@@ -33,8 +33,7 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
 
 
 # The Project
-
-+ Components needed
+### Components needed
 
         ● Breadboard 
         ● Jumper wires 
@@ -43,7 +42,10 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
         ● ADXL345 3-Axis Accelerometer 
         ● A buzzer 
         ● An LED
-        
+
+
+### Requirements
+
 + For communicating with phone we used an app called Dabble
 
         ● https://thestempedia.com/product/dabble/
@@ -52,8 +54,16 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
 + The WIRE library for arduino is required for the ADXL345 to interface with the ARDUINO NANO
 
         ● https://www.arduino.cc/en/Reference/Wire
+        
++ The DABBLE library is required for bluetooth communication
+         
+        ● https://www.arduinolibraries.info/libraries/dabble
 
-+ Screenshots
++ Also download the DABBLE app from the PlayStore (also available for iOS)
+
+        ● https://play.google.com/store/apps/details?id=io.dabbleapp&hl=en_US
+
+### Screenshots
 
         01. Circuit Connections - the connections.xls file contains all the connections that need to be made
                 
@@ -76,7 +86,7 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
      ![](Pictures/08.png)
 
 
-+ References :
+### References :
 
         ● https://thestempedia.com/product/dabble/
         ● https://github.com/STEMpedia/Dabble
