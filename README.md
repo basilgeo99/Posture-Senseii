@@ -29,15 +29,33 @@ Poor posture or “postural dysfunction” is defined as when our spine is being
 
 
 # The Project
+
++ Components needed
+
+        ● Breadboard 
+        ● Jumper wires 
+        ● HC-05 Bluetooth module 
+        ● Arduino Nano 
+        ● ADXL345 3-Axis Accelerometer 
+        ● A buzzer 
+        ● An LED
+        
 + For communicating with phone we used an app called Dabble
 
-        + https://thestempedia.com/product/dabble/
-        + https://github.com/STEMpedia/Dabble
+        ● https://thestempedia.com/product/dabble/
+        ● https://github.com/STEMpedia/Dabble
+
++ The WIRE library for arduino is required for the ADXL345 to interface with the ARDUINO NANO
+
+        ● https://www.arduino.cc/en/Reference/Wire
+
++ Screenshots
+        ![]()
 
 + References :
 
-        + https://thestempedia.com/product/dabble/
-        + https://github.com/STEMpedia/Dabble
-        + Adafruit ADXL345 documentation
-        + YouTube videos
-        + Wikipedia page for RSI https://en.wikipedia.org/wiki/Repetitive_strain_injury
+        ● https://thestempedia.com/product/dabble/
+        ● https://github.com/STEMpedia/Dabble
+        ● Adafruit ADXL345 documentation
+        ● YouTube videos
+        ● Wikipedia page for RSI https://en.wikipedia.org/wiki/Repetitive_strain_injury
